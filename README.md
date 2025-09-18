@@ -7,14 +7,6 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 
 ---
 
-## 🖼️ Dashboard Snapshot
-
-| ![Home](screenshots/Home.png) | ![Finance](screenshots/Finance_View.png) | ![Sales](screenshots/Sales_View.png) |
-|-------------------------------|----------------------------------------|------------------------------------|
-| ![Marketing](screenshots/Marketing_View.png) | ![Supply Chain](screenshots/Supply-Chain_View.png) | ![Executive](screenshots/Executive_View.png) |
-
----
-
 ## 🎯 Business Objectives
 - Break down **data silos** across Finance, Sales, Marketing, and Supply Chain  
 - Deliver a **360° unified BI system** for leadership teams  
@@ -25,21 +17,24 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 
 ## 📊 Key Metrics & Insights
 
-### 🏠 [Home View](screenshots/Home.png)
+### 🏠 Home View
+![Home](screenshots/Home.png)  
 - Serves as the **navigation hub** for all department dashboards  
 - Provides a **snapshot of key KPIs** across the business  
 - One-click navigation to detailed Finance, Sales, Marketing, Supply Chain, and Executive reports  
 
 ---
 
-### 💰 [Finance View](screenshots/Finance_View.png)
+### 💰 Finance View
+![Finance](screenshots/Finance_View.png)  
 - Tracks **P&L metrics**: Revenue, Expenses, Gross Margin %, Net Profit %  
 - Includes **YoY and MoM variance analysis** for financial performance monitoring  
 - Helps stakeholders evaluate **profitability trends and budget alignment**  
 
 ---
 
-### 📈 [Sales View](screenshots/Sales_View.png)
+### 📈 Sales View
+![Sales](screenshots/Sales_View.png)  
 - Breaks down **customer- and product-level performance**  
 - Ranks **Top N products/customers dynamically** to spotlight revenue drivers  
 - Contribution analysis to show which products/customers generate the most value  
@@ -47,7 +42,8 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 
 ---
 
-### 🎯 [Marketing View](screenshots/Marketing_View.png)
+### 🎯 Marketing View
+![Marketing](screenshots/Marketing_View.png)  
 - Evaluates **campaign ROI and marketing channel effectiveness**  
 - Tracks **spend vs revenue** to assess budget efficiency  
 - Provides insights into **which campaigns/channels deliver the highest returns**  
@@ -55,7 +51,8 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 
 ---
 
-### 🚚 [Supply Chain View](screenshots/Supply-Chain_View.png)
+### 🚚 Supply Chain View
+![Supply Chain](screenshots/Supply-Chain_View.png)  
 - Monitors **forecast accuracy, net error, and absolute error**  
 - Compares **demand vs supply** to identify mismatches  
 - Tracks **order variance and logistics efficiency**  
@@ -63,7 +60,8 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 
 ---
 
-### 🧑‍💼 [Executive View](screenshots/Executive_View.png)
+### 🧑‍💼 Executive View
+![Executive](screenshots/Executive_View.png)  
 - Consolidates **all department KPIs** into an **executive scorecard**  
 - Provides **company-wide performance trends** at a glance  
 - Enables **drill-through navigation** for deeper departmental analysis  
@@ -79,15 +77,6 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 
 ---
 
-## 📊 Example Measures
-- **Finance:** Net Sales, Gross Margin %, Net Profit %, YoY Growth %  
-- **Sales:** Customer Contribution %, Product Ranking (Dynamic), Regional Sales Mix  
-- **Marketing:** ROI %, Channel Effectiveness Index, Spend Efficiency Ratio  
-- **Supply Chain:** Forecast Accuracy %, Net Error, Absolute Error  
-- **Executive:** Consolidated KPI Scorecards, Target vs Actual Growth  
-
----
-
 ## 🛠 Tools & Technologies
 - **Data Sources:** SQL (MySQL), Excel, CSV (~1.8M rows)  
 - **Data Prep:** Power Query (M)  
@@ -96,18 +85,6 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 - **Language:** DAX (50+ measures)  
 - **Optimization:** DAX Studio  
 - **Automation:** Power BI Gateway with scheduled refresh  
-
----
-
-## 🔧 Functionalities Demonstrated
-✅ API & SQL Data Integration into Power BI  
-✅ Data Cleaning & Transformation (Power Query)  
-✅ Advanced Data Modeling & Relationships  
-✅ 50+ DAX Calculations for KPIs & Ratios  
-✅ Time Intelligence (YoY, MoM, Rolling Totals)  
-✅ Forecast & Trend Analysis  
-✅ Navigation with Bookmarks, Buttons, Tooltips  
-✅ Executive Drill-throughs & Self-Service Exploration  
 
 ---
 
