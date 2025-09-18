@@ -3,7 +3,7 @@
 ⚡ A full-scale **Power BI Enterprise Solution** integrating **Finance, Sales, Marketing, Supply Chain, and Executive views** into a single, interactive reporting system.  
 This project demonstrates **end-to-end BI development**: from SQL-based data preparation to DAX-driven KPI modeling and advanced Power BI dashboard design.
 
-🔗 **[View Live Power BI Report](https://app.powerbi.com/groups/0f2c9ec4-39fe-4f32-9b54-46a95515e3ff/reports/811d2512-eb04-4069-a3fa-2288aa85ecf9/bc9c2abec8e4e9827b4b?experience=power-bi)**
+🔗 **[Download Power BI Dashboard (.pbix)](https://github.com/vam5h1/Business-Insights-360/blob/main/Business_Insights_360.pbix?raw=true)**
 
 ---
 
@@ -129,5 +129,3 @@ This project demonstrates how a **well-architected BI solution** can:
 ## 👨‍💻 Connect With Me
 🔗 [LinkedIn](https://www.linkedin.com/)  
 📌 Actively seeking **Data Analyst opportunities in 2025**, where I can apply my expertise in data analysis, business intelligence, and data visualization to help organizations turn data into actionable insights.  
-
----
