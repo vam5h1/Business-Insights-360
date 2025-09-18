@@ -89,16 +89,19 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 ---
 
 ## 📁 Repository Contents
-- `Business_Insights_360.pbix` → Full Power BI dashboard  
-- `screenshots/` → Screenshots of each dashboard view  
-  - [Home.png](screenshots/Home.png)  
-  - [Finance_View.png](screenshots/Finance_View.png)  
-  - [Sales_View.png](screenshots/Sales_View.png)  
-  - [Marketing_View.png](screenshots/Marketing_View.png)  
-  - [Supply-Chain_View.png](screenshots/Supply-Chain_View.png)  
-  - [Executive_View.png](screenshots/Executive_View.png)  
 
-📌 *Original SQL datasets are not included due to **data confidentiality agreements**. Only the `.pbix` file and screenshots are provided.*  
+| File / Folder | Description |
+|---------------|-------------|
+| `Business_Insights_360.pbix` | Full Power BI dashboard |
+| `screenshots/` | Screenshots of each dashboard view |
+| `screenshots/Home.png` | Home dashboard view |
+| `screenshots/Finance_View.png` | Finance dashboard view |
+| `screenshots/Sales_View.png` | Sales dashboard view |
+| `screenshots/Marketing_View.png` | Marketing dashboard view |
+| `screenshots/Supply-Chain_View.png` | Supply Chain dashboard view |
+| `screenshots/Executive_View.png` | Executive dashboard view |
+
+📌 *Original SQL datasets are not included due to data confidentiality agreements. Only the `.pbix` file and screenshots are provided.*
 
 ---
 
@@ -112,5 +115,6 @@ This project demonstrates how a **well-architected BI solution** can:
 ---
 
 ## 👨‍💻 Connect With Me
-🔗 [LinkedIn](https://www.linkedin.com/)  
-📌 Actively seeking **Data Analyst opportunities in 2025**, where I can apply my expertise in data analysis, business intelligence, and data visualization to help organizations turn data into actionable insights.  
+
+[🔗 LinkedIn](https://www.linkedin.com/)  
+📌 Actively seeking **Data Analyst opportunities in 2025**, where I can apply my expertise in data analysis, business intelligence, and data visualization to help organizations turn data into actionable insights.
