@@ -7,6 +7,14 @@ This project demonstrates **end-to-end BI development**: from SQL-based data pre
 
 ---
 
+## 🖼️ Dashboard Snapshot
+
+| ![Home](screenshots/Home.png) | ![Finance](screenshots/Finance_View.png) | ![Sales](screenshots/Sales_View.png) |
+|-------------------------------|----------------------------------------|------------------------------------|
+| ![Marketing](screenshots/Marketing_View.png) | ![Supply Chain](screenshots/Supply-Chain_View.png) | ![Executive](screenshots/Executive_View.png) |
+
+---
+
 ## 🎯 Business Objectives
 - Break down **data silos** across Finance, Sales, Marketing, and Supply Chain  
 - Deliver a **360° unified BI system** for leadership teams  
