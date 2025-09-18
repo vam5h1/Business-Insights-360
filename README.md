@@ -114,7 +114,10 @@ This project demonstrates how a **well-architected BI solution** can:
 
 ---
 
-## 👨‍💻 Connect With Me
+## 👨‍💻 Connect With Me  
 
-[🔗 LinkedIn](https://www.linkedin.com/)  
-📌 Actively seeking **Data Analyst opportunities in 2025**, where I can apply my expertise in data analysis, business intelligence, and data visualization to help organizations turn data into actionable insights.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
+
+🔍 Actively seeking **Data Analyst opportunities in 2025**, where I can apply my expertise in **data analysis, business intelligence, API integration, and data visualization** to help organizations turn **data into actionable insights**.  
+
+---
