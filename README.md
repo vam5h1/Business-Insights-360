@@ -4,7 +4,7 @@
 This project demonstrates **end-to-end BI development**: from SQL-based data preparation to DAX-driven KPI modeling and advanced Power BI dashboard design.
 
 🔗 **Live Dashboard Access**  
-[![View on Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOGQzY2U2OWUtODhhYS00MTRmLWJlYWItMzM0Mzg3YTdkYWNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4a37eef28036bc358332)
+[▶️ View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOGQzY2U2OWUtODhhYS00MTRmLWJlYWItMzM0Mzg3YTdkYWNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4a37eef28036bc358332)
 
 
 ---
