@@ -4,7 +4,7 @@
 This project demonstrates **end-to-end BI development**: from SQL-based data preparation to DAX-driven KPI modeling and advanced Power BI dashboard design.
 
 🔗 **Live Dashboard Access:**  
-[▶️ View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOGQzY2U2OWUtODhhYS00MTRmLWJlYWItMzM0Mzg3YTdkYWNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4a37eef28036bc358332) | [⬇️ Download .pbix File](https://github.com/vam5h1/Business-Insights-360/blob/main/Business_Insights_360.pbix?raw=true)
+[▶️ View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOGQzY2U2OWUtODhhYS00MTRmLWJlYWItMzM0Mzg3YTdkYWNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4a37eef28036bc358332) 
 
 ---
 
